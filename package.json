@@ -1,0 +1,22 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "Code Institute lecture of CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abi19x/cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abi19x/cli/issues"
+  },
+  "homepage": "https://github.com/abi19x/cli#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
